@@ -1,0 +1,7 @@
+# Core runtime for the reusable methods.
+jiwer>=3.0        # word-level alignment for AWWER + the corpus-WER helpers
+numpy>=1.21       # speaker-selection energy math
+
+# Optional:
+#   soundfile      # only if you read audio files yourself (the demo synthesizes audio)
+#   pandas         # only for the lexicon/build/ construction scripts

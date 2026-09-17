@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="660" viewBox="0 0 1200 660" font-family="-apple-system,Segoe UI,Roboto,sans-serif">
+<rect width="1200" height="660" fill="#ffffff"/>
+<text x="600.0" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#16324f">Meaning-changing agricultural confusions by category (our lexicon)</text>
+<text x="600.0" y="48" text-anchor="middle" font-size="12.5" fill="#5b6672">tile area = times the confusion was observed in the ~100k-transcript corpus; &#8800; marks a sound-alike pair whose meaning differs &#8212; the corrector must defer these to context</text>
+<rect x="4.0" y="70.0" width="360.8" height="586.0" fill="#57b0a0" stroke="#ffffff" stroke-width="2"/>
+<text x="11.0" y="86.0" font-size="12.5" font-weight="700" fill="#1c2b38">Agricultural Practice</text>
+<rect x="7.0" y="92.0" width="354.8" height="329.1" fill="#b3dbd4" stroke="#57b0a0" stroke-width="1"/>
+<text x="184.4" y="245.6" text-anchor="middle" font-size="12.5" font-weight="700" fill="#16283a">दवा &#8800; दावा</text>
+<text x="184.4" y="260.6" text-anchor="middle" font-size="9.0" font-weight="400" fill="#16283a">medicine/pesticide &#8800; claim</text>
+<text x="184.4" y="275.6" text-anchor="middle" font-size="9.5" font-weight="600" fill="#16283a">n=335</text>
+<rect x="7.0" y="421.1" width="132.9" height="230.9" fill="#b3dbd4" stroke="#57b0a0" stroke-width="1"/>
+<text x="73.4" y="525.6" text-anchor="middle" font-size="12.5" font-weight="700" fill="#16283a">रोकने &#8800; रोपने</text>
+<text x="73.4" y="540.6" text-anchor="middle" font-size="9.0" font-weight="400" fill="#16283a">to stop/bl &#8800; to plant/t</text>
+<text x="73.4" y="555.6" text-anchor="middle" font-size="9.5" font-weight="600" fill="#16283a">n=88</text>
+<rect x="139.9" y="421.1" width="122.7" height="133.5" fill="#b3dbd4" stroke="#57b0a0" stroke-width="1"/>
+<text x="201.2" y="476.9" text-anchor="middle" font-size="12.5" font-weight="700" fill="#16283a">छिड़काव &#8800; छिलका</text>
+<text x="201.2" y="491.9" text-anchor="middle" font-size="9.0" font-weight="400" fill="#16283a">spraying &#8800; peel/husk</text>
+<text x="201.2" y="506.9" text-anchor="middle" font-size="9.5" font-weight="600" fill="#16283a">n=47</text>
+<rect x="262.6" y="421.1" width="99.2" height="133.5" fill="#b3dbd4" stroke="#57b0a0" stroke-width="1"/>
+<text x="312.2" y="476.9" text-anchor="middle" font-size="12.5" font-weight="700" fill="#16283a">दबा &#8800; दवा</text>
+<text x="312.2" y="491.9" text-anchor="middle" font-size="9.0" font-weight="400" fill="#16283a">pressed &#8800; medicin</text>
+<text x="312.2" y="506.9" text-anchor="middle" font-size="9.5" font-weight="600" fill="#16283a">n=38</text>
+<rect x="139.9" y="554.6" width="118.1" height="97.4" fill="#b3dbd4" stroke="#57b0a0" stroke-width="1"/>
+<text x="198.9" y="592.3" text-anchor="middle" font-size="12.5" font-weight="700" fill="#16283a">बाव &#8800; भाव</text>
+<text x="198.9" y="607.3" text-anchor="middle" font-size="9.0" font-weight="400" fill="#16283a">sowing &#8800; market p</text>
+<text x="198.9" y="622.3" text-anchor="middle" font-size="9.5" font-weight="600" fill="#16283a">n=33</text>
+<rect x="258.0" y="554.6" width="103.8" height="97.4" fill="#b3dbd4" stroke="#57b0a0" stroke-width="1"/>
+<text x="309.9" y="592.3" text-anchor="middle" font-size="12.5" font-weight="700" fill="#16283a">पटता &#8800; पड़ता</text>
+<text x="309.9" y="607.3" text-anchor="middle" font-size="9.0" font-weight="400" fill="#16283a">gets se &#8800; falls/c</text>
+<text x="309.9" y="622.3" text-anchor="middle" font-size="9.5" font-weight="600" fill="#16283a">n=29</text>
+<rect x="364.8" y="70.0" width="508.3" height="329.1" fill="#c9a678" stroke="#ffffff" stroke-width="2"/>
+<text x="371.8" y="86.0" font-size="12.5" font-weight="700" fill="#1c2b38">Pest / Disease / Concern</text>
+<rect x="367.8" y="92.0" width="160.4" height="303.1" fill="#e6d6c2" stroke="#c9a678" stroke-width="1"/>
+<text x="448.0" y="232.6" text-anchor="middle" font-size="12.5" font-weight="700" fill="#16283a">पता &#8800; पत्ता</text>
+<text x="448.0" y="247.6" text-anchor="middle" font-size="9.0" font-weight="400" fill="#16283a">address/info &#8800; leaf</text>
+<text x="448.0" y="262.6" text-anchor="middle" font-size="9.5" font-weight="600" fill="#16283a">n=144</text>
+<rect x="528.2" y="92.0" width="187.1" height="169.6" fill="#e6d6c2" stroke="#c9a678" stroke-width="1"/>
+<text x="621.8" y="165.8" text-anchor="middle" font-size="12.5" font-weight="700" fill="#16283a">सुख &#8800; सूख</text>
+<text x="621.8" y="180.8" text-anchor="middle" font-size="9.0" font-weight="400" fill="#16283a">happiness &#8800; to dry/wither</text>
+<text x="621.8" y="195.8" text-anchor="middle" font-size="9.5" font-weight="600" fill="#16283a">n=94</text>
+<rect x="528.2" y="261.6" width="187.1" height="133.5" fill="#e6d6c2" stroke="#c9a678" stroke-width="1"/>
+<text x="621.8" y="317.4" text-anchor="middle" font-size="12.5" font-weight="700" fill="#16283a">मुंह &#8800; मूंग</text>
+<text x="621.8" y="332.4" text-anchor="middle" font-size="9.0" font-weight="400" fill="#16283a">mouth/face &#8800; mung bean crop</text>
+<text x="621.8" y="347.4" text-anchor="middle" font-size="9.5" font-weight="600" fill="#16283a">n=74</text>
+<rect x="715.3" y="92.0" width="154.8" height="119.9" fill="#e6d6c2" stroke="#c9a678" stroke-width="1"/>
+<text x="792.7" y="141.0" text-anchor="middle" font-size="12.5" font-weight="700" fill="#16283a">मरने &#8800; मारने</text>
+<text x="792.7" y="156.0" text-anchor="middle" font-size="9.0" font-weight="400" fill="#16283a">to die &#8800; to kill/spra</text>
+<text x="792.7" y="171.0" text-anchor="middle" font-size="9.5" font-weight="600" fill="#16283a">n=55</text>
+<rect x="715.3" y="211.9" width="154.8" height="102.5" fill="#e6d6c2" stroke="#c9a678" stroke-width="1"/>
+<text x="792.7" y="252.2" text-anchor="middle" font-size="12.5" font-weight="700" fill="#16283a">पल्ला &#8800; पाला</text>
+<text x="792.7" y="267.2" text-anchor="middle" font-size="9.0" font-weight="400" fill="#16283a">edge/end &#8800; frost</text>
+<text x="792.7" y="282.2" text-anchor="middle" font-size="9.5" font-weight="600" fill="#16283a">n=47</text>
+<rect x="715.3" y="314.4" width="154.8" height="80.7" fill="#e6d6c2" stroke="#c9a678" stroke-width="1"/>
+<text x="792.7" y="343.8" text-anchor="middle" font-size="12.5" font-weight="700" fill="#16283a">कीड़ा &#8800; खीरा</text>
+<text x="792.7" y="358.8" text-anchor="middle" font-size="9.0" font-weight="400" fill="#16283a">insect/pest &#8800; cucumber</text>
+<text x="792.7" y="373.8" text-anchor="middle" font-size="9.5" font-weight="600" fill="#16283a">n=37</text>
+<rect x="364.8" y="399.1" width="508.3" height="256.9" fill="#a6c766" stroke="#ffffff" stroke-width="2"/>
+<text x="371.8" y="415.1" font-size="12.5" font-weight="700" fill="#1c2b38">General / Other</text>
+<rect x="367.8" y="421.1" width="218.3" height="230.9" fill="#d6e5ba" stroke="#a6c766" stroke-width="1"/>
+<text x="477.0" y="525.6" text-anchor="middle" font-size="12.5" font-weight="700" fill="#16283a">बीच &#8800; बीज</text>
+<text x="477.0" y="540.6" text-anchor="middle" font-size="9.0" font-weight="400" fill="#16283a">middle/among &#8800; seed</text>
+<text x="477.0" y="555.6" text-anchor="middle" font-size="9.5" font-weight="600" fill="#16283a">n=153</text>
+<rect x="586.2" y="421.1" width="168.4" height="230.9" fill="#d6e5ba" stroke="#a6c766" stroke-width="1"/>
+<text x="670.4" y="525.6" text-anchor="middle" font-size="12.5" font-weight="700" fill="#16283a">पेड़ &#8800; पैर</text>
+<text x="670.4" y="540.6" text-anchor="middle" font-size="9.0" font-weight="400" fill="#16283a">tree &#8800; foot/leg</text>
+<text x="670.4" y="555.6" text-anchor="middle" font-size="9.5" font-weight="600" fill="#16283a">n=118</text>
+<rect x="754.6" y="421.1" width="115.6" height="162.5" fill="#d6e5ba" stroke="#a6c766" stroke-width="1"/>
+<text x="812.4" y="491.4" text-anchor="middle" font-size="12.5" font-weight="700" fill="#16283a">आज &#8800; प्याज</text>
+<text x="812.4" y="506.4" text-anchor="middle" font-size="9.0" font-weight="400" fill="#16283a">today &#8800; onion</text>
+<text x="812.4" y="521.4" text-anchor="middle" font-size="9.5" font-weight="600" fill="#16283a">n=57</text>
+<rect x="754.6" y="583.6" width="115.6" height="68.4" fill="#d6e5ba" stroke="#a6c766" stroke-width="1"/>
+<text x="812.4" y="606.8" text-anchor="middle" font-size="12.5" font-weight="700" fill="#16283a">पति &#8800; पत्ती</text>
+<text x="812.4" y="621.8" text-anchor="middle" font-size="9.0" font-weight="400" fill="#16283a">husband &#8800; leaf</text>
+<text x="812.4" y="636.8" text-anchor="middle" font-size="9.5" font-weight="600" fill="#16283a">n=24</text>
+<rect x="873.2" y="70.0" width="322.8" height="363.1" fill="#e8935a" stroke="#ffffff" stroke-width="2"/>
+<text x="880.2" y="86.0" font-size="12.5" font-weight="700" fill="#1c2b38">Crop</text>
+<rect x="876.2" y="92.0" width="179.5" height="152.5" fill="#f4ceb4" stroke="#e8935a" stroke-width="1"/>
+<text x="965.9" y="157.3" text-anchor="middle" font-size="12.5" font-weight="700" fill="#16283a">गेम &#8800; गेहूं</text>
+<text x="965.9" y="172.3" text-anchor="middle" font-size="9.0" font-weight="400" fill="#16283a">game &#8800; wheat</text>
+<text x="965.9" y="187.3" text-anchor="middle" font-size="9.5" font-weight="600" fill="#16283a">n=81</text>
+<rect x="1055.6" y="92.0" width="137.4" height="152.5" fill="#f4ceb4" stroke="#e8935a" stroke-width="1"/>
+<text x="1124.3" y="157.3" text-anchor="middle" font-size="12.5" font-weight="700" fill="#16283a">जो &#8800; जौ</text>
+<text x="1124.3" y="172.3" text-anchor="middle" font-size="9.0" font-weight="400" fill="#16283a">which/that &#8800; barley</text>
+<text x="1124.3" y="187.3" text-anchor="middle" font-size="9.5" font-weight="600" fill="#16283a">n=62</text>
+<rect x="876.2" y="244.5" width="172.2" height="98.2" fill="#f4ceb4" stroke="#e8935a" stroke-width="1"/>
+<text x="962.2" y="282.6" text-anchor="middle" font-size="12.5" font-weight="700" fill="#16283a">पालक &#8800; पाला</text>
+<text x="962.2" y="297.6" text-anchor="middle" font-size="9.0" font-weight="400" fill="#16283a">spinach &#8800; frost</text>
+<text x="962.2" y="312.6" text-anchor="middle" font-size="9.5" font-weight="600" fill="#16283a">n=50</text>
+<rect x="876.2" y="342.7" width="172.2" height="86.4" fill="#f4ceb4" stroke="#e8935a" stroke-width="1"/>
+<text x="962.2" y="374.9" text-anchor="middle" font-size="12.5" font-weight="700" fill="#16283a">राई &#8800; राय</text>
+<text x="962.2" y="389.9" text-anchor="middle" font-size="9.0" font-weight="400" fill="#16283a">mustard crop &#8800; opinion/advice</text>
+<text x="962.2" y="404.9" text-anchor="middle" font-size="9.5" font-weight="600" fill="#16283a">n=44</text>
+<rect x="1048.3" y="244.5" width="144.7" height="93.4" fill="#f4ceb4" stroke="#e8935a" stroke-width="1"/>
+<text x="1120.7" y="280.3" text-anchor="middle" font-size="12.5" font-weight="700" fill="#16283a">मटर &#8800; मोटर</text>
+<text x="1120.7" y="295.3" text-anchor="middle" font-size="9.0" font-weight="400" fill="#16283a">pea &#8800; motor/pump</text>
+<text x="1120.7" y="310.3" text-anchor="middle" font-size="9.5" font-weight="600" fill="#16283a">n=40</text>
+<rect x="1048.3" y="338.0" width="144.7" height="91.1" fill="#f4ceb4" stroke="#e8935a" stroke-width="1"/>
+<text x="1120.7" y="372.5" text-anchor="middle" font-size="12.5" font-weight="700" fill="#16283a">मशहूर &#8800; मसूर</text>
+<text x="1120.7" y="387.5" text-anchor="middle" font-size="9.0" font-weight="400" fill="#16283a">famous &#8800; lentil</text>
+<text x="1120.7" y="402.5" text-anchor="middle" font-size="9.5" font-weight="600" fill="#16283a">n=39</text>
+<rect x="873.2" y="433.1" width="322.8" height="222.9" fill="#d38cc2" stroke="#ffffff" stroke-width="2"/>
+<text x="880.2" y="449.1" font-size="12.5" font-weight="700" fill="#1c2b38">Fertilizer / Chemical</text>
+<rect x="876.2" y="455.1" width="316.8" height="196.9" fill="#ebcbe3" stroke="#d38cc2" stroke-width="1"/>
+<text x="1034.6" y="542.5" text-anchor="middle" font-size="12.5" font-weight="700" fill="#16283a">खाद &#8800; खाद्य</text>
+<text x="1034.6" y="557.5" text-anchor="middle" font-size="9.0" font-weight="400" fill="#16283a">fertilizer/manure &#8800; food/edible</text>
+<text x="1034.6" y="572.5" text-anchor="middle" font-size="9.5" font-weight="600" fill="#16283a">n=194</text>
+</svg>
